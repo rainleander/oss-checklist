@@ -1,8 +1,12 @@
-# The Importance of Open Source Community
+# The Importance of an Open Source Community
 There are several reasons why people opt for open source vs proprietary these days. Open source encourages innovation through collaboration, allows for more efficient responses to security issues, reduces bias and discrimination and enables wider adoption and distribution.
+
 Through collaboration, contributors experience a lower risk of burnout because they are part of something bigger than the individual, contributors receive feedback more efficiently because users can engage directly with the project developers, and contributors have a competitive edge on the job market because they’re developing on the cutting edge.
+
 Enterprises embrace open source because it allows them to start small and scale immediately, to build a proof of concept quickly to test if it will work for them, to avoid vendor lock-in, and to create the feature you want to see in the project.
+
 The reason why open source can do all these things for so many people is because the power of community is at the core of successful projects. Without community, a project is only technically open source because of its license and won’t reap the benefits of rapid innovation, consistent release cycles, and faster response to current trends and market needs.
+
 In order to create a healthy, rich community full of globally diverse contributors, we must make it easy for everyone to use the project, clearly explain how to contribute, build personal relationships, make people feel included, and create a safe environment by setting a code of conduct.
 ## Make it Easy for Everyone to Use the Project
 This is not just about documentation or sample apps or workshops, but about every piece of content that enables users of all learning styles to become successful within the project. This touches documentation, yes, but also marketing and education and developer relations and anyone else who creates content that will influence, inspire, and encourage people on their developer journey from “I’ve heard of this project and I’m curious to learn more” to “I have contributed to this project’s core.”
