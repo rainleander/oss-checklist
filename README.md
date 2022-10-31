@@ -37,7 +37,7 @@ A project needs to offer a harassment-free experience for all users, regardless 
 - [ ]  basic documentation
     - [ ]  README
     - [ ]  CONTRIBUTING
-    - [ ]  CODE_OF_CONDUCT [exists but isn’t referenced on github]
+    - [ ]  CODE_OF_CONDUCT 
 - [ ]  The issue queue is up-to-date, with issues clearly organized and labeled
 
 ### Code
