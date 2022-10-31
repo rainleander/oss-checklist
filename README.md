@@ -26,7 +26,9 @@ The more people feel they belong to a project, the more enthusiastic and motivat
 - Promote trusted contributors to maintainers with commit access and a chance to maintain the project to a professional standard.
 ## Create a Safe Environment
 An open source project brings people together from all over the world with different cultures, backgrounds, and variations in cognition. While diversity is key to innovation, it can also lead to major conflicts within the open source community.
+
 [According to GitHub](https://opensourcesurvey.org/2017/), negative interactions between users in open source are quite common. Nearly 18% of people who're active in open source communities have been faced with a negative interaction with another person. Moreover, 50% of them have been a witness to a negative communication between other people in open source. The most common negative interactions are impoliteness, name calling, and stereotyping. A whopping 21% of users said they stopped contributing to a project because of a negative interaction.
+
 A project needs to offer a harassment-free experience for all users, regardless of their age, ethnicity, gender, nationality, sexual identity, or religion. In order to foster an open and welcoming environment and avoid negative interactions, post and enforce a Code of Conduct.
 # The Open Source Checklist
 ## Foundations
