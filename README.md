@@ -62,9 +62,10 @@ A project needs to offer a harassment-free experience for all users, regardless 
 - [ ]  Zero-Tolerance Policy / How Are People Asked to Leave
 - [ ]  Advice for New Contributors
 - [ ]  Mentorship Program
+- [ ]  [User Recognition Program](https://github.com/rainleander/oss-checklist/blob/main/RECOGNITION.md)
 - [ ]  Shared Ownership
 - [ ]  Contributors / Authors File
-- [ ]  Recognizing non-Temporal Contributors Per Development Cycle
+- [ ]  Recognizing External Contributors
 - [ ]  External Contributor Commit Access
 - [ ]  1-2 Maintainer per Repository
 
