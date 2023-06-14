@@ -11,88 +11,6 @@ Finally, a robust recognition program can also draw in new members. When potenti
 
 The development of a user community recognition program is a strategic investment that can significantly strengthen a community, fueling its growth, engagement, and overall success.
 
-## SuperUser Awards Program Proposal
-The SuperUser Awards Program is designed to recognize teams that not only leverage the project to create significant business impact and competitive advantage but also give back to the open-source community. The program intends to highlight the symbiotic relationship between business innovation and open-source contribution, promoting a culture of mutual growth and support.
-
-### SuperUser Awards
-#### Innovation Award
-This award recognizes teams that have utilized the project in innovative ways to solve complex business problems, streamline operations, or create new products or services, thus gaining a competitive edge in their respective industries.
-
-#### Transformation Award
-This award celebrates teams that have leveraged the project to drive meaningful business transformation, such as substantial cost savings, increased operational efficiency, improved customer experience, or accelerated growth.
-
-#### Community Contribution Award
-This award acknowledges teams that have made significant contributions back to the open-source community. This could be in the form of code contributions, organizing meetups, providing mentorship, or sharing knowledge through blogs, articles, and presentations.
-
-### Nurturing and Celebrating SuperUsers
-Nurturing: Offer advanced workshops and webinars for the SuperUsers, providing them with the latest updates, best practices, and expert advice. 
-
-Celebrating: Regularly spotlight SuperUsers and their achievements in community newsletters, blogs, and webinars. Recognize their contributions on our social media platforms and during industry events.
-
-### Benefits for SuperUsers
-1. Recognition and visibility within the global community and the wider tech industry.
-2. Opportunities to showcase their success stories and best practices, influencing the future development of the project.
-3. Exclusive access to advanced resources, events, and learning opportunities.
-
-### Proposed Timeline
-#### Launch Call for Nominations
-Open the call for nominations for the SuperUser Awards. Outline the criteria for each award and the process for nomination and selection.
-
-#### Nomination Period 
-Allow a month for teams to submit their nominations. During this period, engage with the community to encourage participation and answer any queries.
-
-#### Evaluation and Selection
-Evaluate the nominations based on the established criteria. This process may involve a panel of judges comprising core committers and community leaders.
-
-#### Announcement of Winners
-Announce the winners of the SuperUser Awards at Summit. Share their stories and achievements across various platforms.
-#### Celebration and Recognition
-Begin the celebration and recognition of the SuperUsers. This may involve featuring them in case studies, inviting them to speak at events, or hosting a special ceremony.
-
-### Conclusion
-The proposed SuperUser Awards Program is a unique initiative that recognizes and celebrates teams that are creating business value with the project and contributing to the open-source community. It not only fosters a sense of appreciation and motivation but also inspires others to follow in their footsteps.
-
-## Organizers Program Proposal
-The Organizers Program aims to support and empower individuals or teams who wish to host local meetups. By providing resources, guidance, and modest sponsorship, we can foster a more connected and vibrant global community.
-
-### Organizers' Toolkit
-To support the success of meetup organizers, we propose the creation of an Organizers' Toolkit, which includes:
-
-Organizers' Guide: A comprehensive guide covering all aspects of organizing an event. Topics would include how to select a venue, scheduling, advertising the event, and engaging with attendees.
-
-Sample Sponsorship Proposal: A customizable template for a sponsorship proposal that organizers can use to approach potential sponsors. The proposal would highlight the benefits of sponsoring a meetup, such as increased brand exposure and opportunities to network with data professionals.
-
-Event Planning Checklist: A detailed checklist to help organizers plan and manage their events effectively.
-
-Promotional Materials: Digital templates for event announcements, social media posts, and other promotional materials.
-
-### Support Program
-To further assist organizers, Sponsors can provide:
-
-Swag: Sponsors can supply a selection of branded swag items, such as stickers, t-shirts, and mugs, which can be used as giveaways at the meetups.
-
-Financial Support: Sponsors can offer modest financial support to cover some of the costs associated with hosting a meetup, such as venue rental or refreshments. The support would be provided based on an evaluation of the proposed budget submitted by the organizers.
-
-Speaker Support: Sponsors could help connect organizers with potential speakers from the community, including experts from the project.
-
-Promotion: Sponsors can help promote the meetups through its channels, such as the Sponsor’s website, newsletter, and social media platforms.
-
-### Proposed Timeline
-#### Development of Organizers' Toolkit 
-Develop the Organizers' Guide, Sponsorship Proposal template, Event Planning Checklist, and promotional materials.
-
-#### Launch of Organizers Program
-Announce the launch of the program and make the Organizers' Toolkit available for download from the Sponsor’s website. Open applications for Sponsor Support.
-
-#### Evaluation of Support Applications
-Evaluate applications for Sponsor Support on a rolling basis. Provide feedback and guidance to the applicants.
-
-#### Ongoing Support and Improvement
-Provide ongoing support to the organizers, monitor the effectiveness of the program, and make improvements based on feedback and results.
-
-### Conclusion
-The proposed Meetup Organizers Program is a strategic initiative to foster a vibrant, globally connected community. By empowering and supporting local meetup organizers, we can facilitate knowledge sharing, networking, and collaboration among users around the world.
-
 ## Champions Program Proposal
 The Champions Program is designed to recognize, appreciate, and reward the power users within the community. Our aim is to bridge the gap between end users and core committers, creating a more vibrant, interactive, and inclusive community. The program's cornerstone is an integrated Badge System, designed to acknowledge various forms of active community engagement and contribution.
 
@@ -187,3 +105,85 @@ Facilitate speaking opportunities for the program participants. As they achieve 
 
 ### Conclusion
 The Speaker's Program is a strategic initiative to elevate our community ambassadors and foster community advocacy. By equipping our community members with the skills and opportunities to speak about the community and recognizing their contributions, we can strengthen our community and extend the reach of the community.
+
+## Organizers Program Proposal
+The Organizers Program aims to support and empower individuals or teams who wish to host local meetups. By providing resources, guidance, and modest sponsorship, we can foster a more connected and vibrant global community.
+
+### Organizers' Toolkit
+To support the success of meetup organizers, we propose the creation of an Organizers' Toolkit, which includes:
+
+Organizers' Guide: A comprehensive guide covering all aspects of organizing an event. Topics would include how to select a venue, scheduling, advertising the event, and engaging with attendees.
+
+Sample Sponsorship Proposal: A customizable template for a sponsorship proposal that organizers can use to approach potential sponsors. The proposal would highlight the benefits of sponsoring a meetup, such as increased brand exposure and opportunities to network with data professionals.
+
+Event Planning Checklist: A detailed checklist to help organizers plan and manage their events effectively.
+
+Promotional Materials: Digital templates for event announcements, social media posts, and other promotional materials.
+
+### Support Program
+To further assist organizers, Sponsors can provide:
+
+Swag: Sponsors can supply a selection of branded swag items, such as stickers, t-shirts, and mugs, which can be used as giveaways at the meetups.
+
+Financial Support: Sponsors can offer modest financial support to cover some of the costs associated with hosting a meetup, such as venue rental or refreshments. The support would be provided based on an evaluation of the proposed budget submitted by the organizers.
+
+Speaker Support: Sponsors could help connect organizers with potential speakers from the community, including experts from the project.
+
+Promotion: Sponsors can help promote the meetups through its channels, such as the Sponsor’s website, newsletter, and social media platforms.
+
+### Proposed Timeline
+#### Development of Organizers' Toolkit 
+Develop the Organizers' Guide, Sponsorship Proposal template, Event Planning Checklist, and promotional materials.
+
+#### Launch of Organizers Program
+Announce the launch of the program and make the Organizers' Toolkit available for download from the Sponsor’s website. Open applications for Sponsor Support.
+
+#### Evaluation of Support Applications
+Evaluate applications for Sponsor Support on a rolling basis. Provide feedback and guidance to the applicants.
+
+#### Ongoing Support and Improvement
+Provide ongoing support to the organizers, monitor the effectiveness of the program, and make improvements based on feedback and results.
+
+### Conclusion
+The proposed Meetup Organizers Program is a strategic initiative to foster a vibrant, globally connected community. By empowering and supporting local meetup organizers, we can facilitate knowledge sharing, networking, and collaboration among users around the world.
+
+## SuperUser Awards Program Proposal
+The SuperUser Awards Program is designed to recognize teams that not only leverage the project to create significant business impact and competitive advantage but also give back to the open-source community. The program intends to highlight the symbiotic relationship between business innovation and open-source contribution, promoting a culture of mutual growth and support.
+
+### SuperUser Awards
+#### Innovation Award
+This award recognizes teams that have utilized the project in innovative ways to solve complex business problems, streamline operations, or create new products or services, thus gaining a competitive edge in their respective industries.
+
+#### Transformation Award
+This award celebrates teams that have leveraged the project to drive meaningful business transformation, such as substantial cost savings, increased operational efficiency, improved customer experience, or accelerated growth.
+
+#### Community Contribution Award
+This award acknowledges teams that have made significant contributions back to the open-source community. This could be in the form of code contributions, organizing meetups, providing mentorship, or sharing knowledge through blogs, articles, and presentations.
+
+### Nurturing and Celebrating SuperUsers
+Nurturing: Offer advanced workshops and webinars for the SuperUsers, providing them with the latest updates, best practices, and expert advice. 
+
+Celebrating: Regularly spotlight SuperUsers and their achievements in community newsletters, blogs, and webinars. Recognize their contributions on our social media platforms and during industry events.
+
+### Benefits for SuperUsers
+1. Recognition and visibility within the global community and the wider tech industry.
+2. Opportunities to showcase their success stories and best practices, influencing the future development of the project.
+3. Exclusive access to advanced resources, events, and learning opportunities.
+
+### Proposed Timeline
+#### Launch Call for Nominations
+Open the call for nominations for the SuperUser Awards. Outline the criteria for each award and the process for nomination and selection.
+
+#### Nomination Period 
+Allow a month for teams to submit their nominations. During this period, engage with the community to encourage participation and answer any queries.
+
+#### Evaluation and Selection
+Evaluate the nominations based on the established criteria. This process may involve a panel of judges comprising core committers and community leaders.
+
+#### Announcement of Winners
+Announce the winners of the SuperUser Awards at Summit. Share their stories and achievements across various platforms.
+#### Celebration and Recognition
+Begin the celebration and recognition of the SuperUsers. This may involve featuring them in case studies, inviting them to speak at events, or hosting a special ceremony.
+
+### Conclusion
+The proposed SuperUser Awards Program is a unique initiative that recognizes and celebrates teams that are creating business value with the project and contributing to the open-source community. It not only fosters a sense of appreciation and motivation but also inspires others to follow in their footsteps.
